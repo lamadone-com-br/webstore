@@ -16,7 +16,7 @@ export default defineConfig(async (config) => {
 				publicApiKey: loadEnv('', '.', '').VITE_QWIK_INSIGHTS_KEY,
 			}),
 			qwikCity(),
-			qwikVite(),
+			qwikVite({devTools: {imageDevTools: false, clickToSource: false}}),
 			tsconfigPaths(),
 		],
 		preview: {
