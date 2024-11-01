@@ -1,4 +1,4 @@
-# Vendure Qwik Storefront Starter️
+# La Madone Vendure Qwik based Storefront Starter️
 
 An e-commerce storefront for [Vendure](https://www.vendure.io) built with [Qwik](https://qwik.builder.io/) & [Qwik City](https://qwik.builder.io/qwikcity/overview).
 
